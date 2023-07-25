@@ -1,2 +1,2 @@
-# P05_Validaciones
-Validaciones
+# PracticaMean
+ Crear el front-end de la aplicación MEAN con Angular
